@@ -16,13 +16,13 @@
   </p>
 </p>
 
-# Here are some ideas to get you started:
+# Algumas informações sobre mim
 
 <p align="start">🔭 Atualmente trabalhando no back-end com Node.js e Typescript, utilizando clean architecture</p>
 <p align="start">🌱 Mobile com Flutter</p>
 <p align="start">📫 [Entre em contato comigo!](mailto:raphaeltiago02@gmail.com)</p>
 
-# Stacks
+# Minhas stacks
 
 <p align="start">
 	<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px">
@@ -58,19 +58,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaRaphael&layout=compact&theme=dark)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silvaRaphael&layout=compact&theme=dark)
-
-
-<!--
-**silvaRaphael/silvaRaphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
