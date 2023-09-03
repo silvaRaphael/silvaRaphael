@@ -18,9 +18,9 @@
 
 # Here are some ideas to get you started:
 
-- 🔭 Atualmente trabalhando no back-end com Node.js e Typescript, utilizando clean architecture
-- 🌱 Mobile com Flutter
-- 📫 [Entre em contato comigo!](mailto:raphaeltiago02@gmail.com)
+🔭 Atualmente trabalhando no back-end com Node.js e Typescript, utilizando clean architecture
+🌱 Mobile com Flutter
+📫 [Entre em contato comigo!](mailto:raphaeltiago02@gmail.com)
 
 # Stacks
 
