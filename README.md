@@ -20,7 +20,7 @@
 
 <p align="start">🔭 Atualmente trabalhando no back-end com Node.js e Typescript, utilizando clean architecture</p>
 <p align="start">🌱 Mobile com Flutter</p>
-<p align="start">📫 [Entre em contato comigo!](mailto:raphaeltiago02@gmail.com)</p>
+<p align="start">📫 <a href="mailto:raphaeltiago02@gmail.com">Entre em contato comigo!</a></p>
 
 # Minhas stacks
 
