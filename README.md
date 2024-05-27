@@ -3,7 +3,7 @@
 <p align="center">Sejam todo muito bem-vindos ao meu GitHub 👋🏼!</p>
 </p>
   <p align="center">
-		<img src="https://img.shields.io/badge/----v-21-accent">
+		<img src="https://img.shields.io/badge/----v-22-accent">
   </p>
 
   <p align="center">
